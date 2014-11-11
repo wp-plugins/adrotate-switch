@@ -4,7 +4,7 @@ Plugin Name: AdRotate Switch
 Plugin URI: https://ajdg.solutions/
 Description: Easily migrate your data from other advertising plugins to AdRotate or AdRotate Pro.
 Author: Arnan de Gans of AJdG Solutions
-Version: 0.1
+Version: 1.0
 Author URI: https://ajdg.solutions/
 License: GPLv3
 */
