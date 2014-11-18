@@ -4,13 +4,13 @@ Donate link: http://meandmymac.net/donate/
 Tags: max banner ads, mba, adrotate, adrotate pro, adsense, advertise, migrate, bannerman, wp125, ads, convert, banner, commercial, admin, plugin, ad, advertising, advertisement, adsense, referrer, menu
 Requires at least: 3.8, PHP5.3
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
  
 Easily switch to AdRotate or AdRotate Pro with the AdRotate Switch tool.
 
 == Description ==
 
-Looking for a fresh start with AdRotate but you don't want to have to re-do all your ads in AdRotate?
+Looking for a fresh start with AdRotate but you don't want to have to re-do all your ads?
 If you have a compatible plugin you can easily import your adverts into AdRotate or AdRotate Pro and get a head start!
 Easily switch to AdRotate or AdRotate Pro with the AdRotate Switch tool.
 
@@ -21,6 +21,7 @@ Easily switch to AdRotate or AdRotate Pro with the AdRotate Switch tool.
 * BannerMan
 * Ad King Pro
 * WP Advertize It
+* Useful Banner Manager
 
 Do you know of a plugin AdRotate Switch should support? Let me know!
 
@@ -47,6 +48,9 @@ If that's not enough you can post on the [forum](https://www.adrotateplugin.com/
 
 == Changelog ==
 
+= 1.1 =
+* Added support for 'Useful Banner Manager'
+
 = 1.0 =
 * First release
 
@@ -54,8 +58,7 @@ NOTE: Unsolicited offers, parnterships, job offers, promotional emails or produc
 
 == Upgrade Notice ==
 
-= 1.0 =
-* First release
+* Added support for 'Useful Banner Manager'
 
 == Screenshots ==
 
