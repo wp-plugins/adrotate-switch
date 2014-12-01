@@ -62,7 +62,9 @@ NOTE: Unsolicited offers, parnterships, job offers, promotional emails or produc
 
 == Upgrade Notice ==
 
-* Added support for 'Useful Banner Manager'
+= 1.1.1 =
+* Updated for AdRotate Pro 3.11.3
+* Updated for AdRotate 3.10.13
 
 == Screenshots ==
 
