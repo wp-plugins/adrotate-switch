@@ -1,9 +1,9 @@
 === AdRotate Switch ===
 Contributors: adegans
-Donate link: http://meandmymac.net/donate/
+Donate link: http://meandmymac.net/donate/?pk_campaign=adrotateswitch-readme&pk_kwd=donatelink
 Tags: max banner ads, mba, adrotate, adrotate pro, adsense, advertise, migrate, bannerman, wp125, ads, convert, banner, commercial, admin, plugin, ad, advertising, advertisement, adsense, referrer, menu
 Requires at least: 3.8, PHP5.3
-Tested up to: 4.1.2
+Tested up to: 4.2.1
 Stable tag: 1.2.1
  
 Easily switch to AdRotate or AdRotate Pro with the AdRotate Switch tool.
@@ -28,9 +28,9 @@ Do you know of a plugin AdRotate Switch should support? Let me know!
 
 **Important links**
 
-* [AdRotate information](https://ajdg.solutions/products/adrotate-for-wordpress/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=details) - Lots of Additional plugin information
-* [Manuals & Support](https://ajdg.solutions/manuals/adrotate/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=manuals) - Setup instructions and support
-* [Buy AdRotate Pro](https://ajdg.solutions/products/adrotate-for-wordpress/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=buy_pro) - Buy AdRotate Pro or hire me to install or troubleshoot AdRotate
+* [AdRotate information](https://ajdg.solutions/products/adrotate-for-wordpress/?pk_campaign=adrotateswitch-readme&pk_kwd=details) - Lots of Additional plugin information
+* [Manuals & Support](https://ajdg.solutions/manuals/adrotate/?pk_campaign=adrotateswitch-readme&pk_kwd=manuals) - Setup instructions and support
+* [Buy AdRotate Pro](https://ajdg.solutions/products/adrotate-for-wordpress/?pk_campaign=adrotateswitch-readme&pk_kwd=buypro) - Buy AdRotate Pro or hire me to install or troubleshoot AdRotate
 
 NOTE: Unsolicited offers, partnerships, job offers, promotional emails or product offers to "enhance" my business or products through this site or any means are not appreciated and will most likely be ignored.
 
@@ -39,13 +39,13 @@ NOTE: Unsolicited offers, partnerships, job offers, promotional emails or produc
 Installation is as easy as clicking "install plugin" in your dashboard.
 AdRotate Switch ads a menu in the "Tools" menu in your dashboard.
 
-* [Manuals & Support](https://ajdg.solutions/manuals/adrotate/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=manuals) - Setup instructions and support
-* [Buy AdRotate Pro](https://ajdg.solutions/products/adrotate-for-wordpress/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=buy_pro) - Buy AdRotate Pro or hire me to install or troubleshoot AdRotate
+* [Manuals & Support](https://ajdg.solutions/manuals/adrotate/?pk_campaign=adrotateswitch-readme&pk_kwd=manuals) - Setup instructions and support
+* [Buy AdRotate Pro](https://ajdg.solutions/products/adrotate-for-wordpress/?pk_campaign=adrotateswitch-readme&pk_kwd=buypro) - Buy AdRotate Pro or hire me to install or troubleshoot AdRotate
 
 == Frequently Asked Questions ==
 
-There are [manuals](https://ajdg.solutions/manuals/adrotate/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=manuals) with every feature explained.
-If that's not enough you can post on the [forum](https://ajdg.solutions/forums/forum/adrotate-for-wordpress/?utm_source=adrotateswitch&utm_medium=readme&utm_campaign=support) and ask your question there!
+There are [manuals](https://ajdg.solutions/manuals/adrotate/?pk_campaign=adrotateswitch-readme&pk_kwd=manuals) with every feature explained.
+If that's not enough you can post on the [forum](https://ajdg.solutions/forums/forum/adrotate-for-wordpress/?pk_campaign=adrotateswitch-readme&pk_kwd=support) and ask your question there!
 
 == Changelog ==
 
