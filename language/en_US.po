@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdRotate Switch\n"
+"POT-Creation-Date: 2015-09-25 19:16+0200\n"
+"PO-Revision-Date: 2015-09-25 19:16+0200\n"
+"Last-Translator: Arnan de Gans <info@ajdg.net>\n"
+"Language-Team: Arnan de Gans <support@ajdg.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adrotate-switch.php:52 adrotate-switch.php:61
+msgid "AdRotate Switch"
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid ""
+"Your data hase been imported into AdRotate. You can manage your adverts from "
+"the"
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid "dashboard"
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid "now."
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid "Next steps:"
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid ""
+"If you have imported all your ads through AdRotate Switch you can uninstall "
+"or disable this plugin."
+msgstr ""
+
+#: adrotate-switch.php:64
+msgid ""
+"Once you have verified all your ads and compatible data have been imported "
+"into AdRotate correctly you can remove or disable your previous advertising "
+"plugin."
+msgstr ""
+
+#: adrotate-switch.php:68
+msgid ""
+"AdRotate (Pro) is not active or installed! AdRotate (Pro) must be active for "
+"AdRotate Switch to work!"
+msgstr ""
+
+#: adrotate-switch.php:82 adrotate-switch.php:110 adrotate-switch.php:125
+#: adrotate-switch.php:138 adrotate-switch.php:157 adrotate-switch.php:170
+#: adrotate-switch.php:185 adrotate-switch.php:198
+msgid "Import banners into adverts (required)"
+msgstr ""
+
+#: adrotate-switch.php:83 adrotate-switch.php:111
+msgid "Import zones into groups"
+msgstr ""
+
+#: adrotate-switch.php:84 adrotate-switch.php:98 adrotate-switch.php:171
+#: adrotate-switch.php:199
+msgid "Import expiry dates into schedules (Recommended)"
+msgstr ""
+
+#: adrotate-switch.php:85
+msgid "Import clicks and impressions into a stats record"
+msgstr ""
+
+#: adrotate-switch.php:86 adrotate-switch.php:99 adrotate-switch.php:113
+#: adrotate-switch.php:127 adrotate-switch.php:140 adrotate-switch.php:159
+#: adrotate-switch.php:173 adrotate-switch.php:187 adrotate-switch.php:200
+msgid "Import"
+msgstr ""
+
+#: adrotate-switch.php:86 adrotate-switch.php:99 adrotate-switch.php:113
+#: adrotate-switch.php:127 adrotate-switch.php:140 adrotate-switch.php:159
+#: adrotate-switch.php:173 adrotate-switch.php:187 adrotate-switch.php:200
+msgid "Click only once!"
+msgstr ""
+
+#: adrotate-switch.php:88 adrotate-switch.php:101 adrotate-switch.php:116
+#: adrotate-switch.php:129 adrotate-switch.php:142 adrotate-switch.php:161
+#: adrotate-switch.php:176 adrotate-switch.php:189 adrotate-switch.php:202
+msgid "Notes:"
+msgstr ""
+
+#: adrotate-switch.php:88
+msgid "No location/placement data migrated."
+msgstr ""
+
+#: adrotate-switch.php:88
+msgid "Zones are migrated to groups with default settings."
+msgstr ""
+
+#: adrotate-switch.php:88
+msgid "AdCode generated on the fly based on your banners."
+msgstr ""
+
+#: adrotate-switch.php:88 adrotate-switch.php:101 adrotate-switch.php:116
+#: adrotate-switch.php:129 adrotate-switch.php:161 adrotate-switch.php:176
+#: adrotate-switch.php:189 adrotate-switch.php:202
+msgid ""
+"If schedules are skipped, imported adverts may appear expired/faulty until "
+"you give them a schedule."
+msgstr ""
+
+#: adrotate-switch.php:97
+msgid "Import Image, Text or AdSense banners into adverts (required)"
+msgstr ""
+
+#: adrotate-switch.php:101
+msgid "HTML5 and Flash banners are not imported."
+msgstr ""
+
+#: adrotate-switch.php:101
+msgid "Banner Zones are not compatible."
+msgstr ""
+
+#: adrotate-switch.php:101 adrotate-switch.php:142 adrotate-switch.php:161
+msgid "AdCode will be generated on the fly based on your settings."
+msgstr ""
+
+#: adrotate-switch.php:112 adrotate-switch.php:126 adrotate-switch.php:158
+#: adrotate-switch.php:186
+msgid "Assign a default schedule (Recommended)"
+msgstr ""
+
+#: adrotate-switch.php:115 adrotate-switch.php:175
+msgid "Caution:"
+msgstr ""
+
+#: adrotate-switch.php:115
+msgid "This plugin has a complex set of options."
+msgstr ""
+
+#: adrotate-switch.php:115
+msgid ""
+"AdRotate makes a best effort but some adverts/groups may not work without "
+"some tweaks!"
+msgstr ""
+
+#: adrotate-switch.php:116
+msgid "Adzones imported into groups."
+msgstr ""
+
+#: adrotate-switch.php:116
+msgid "AdCode may be generated on the fly based on your settings."
+msgstr ""
+
+#: adrotate-switch.php:116
+msgid "Tablet/Phone advert variations are imported into seperate adverts."
+msgstr ""
+
+#: adrotate-switch.php:129
+msgid "Placement data not compatible."
+msgstr ""
+
+#: adrotate-switch.php:129 adrotate-switch.php:189
+msgid "AdCode will be imported as-is."
+msgstr ""
+
+#: adrotate-switch.php:139
+msgid "Import Places and Blocks into groups"
+msgstr ""
+
+#: adrotate-switch.php:142
+msgid "Ads Blocks are converted to groups in Block mode, no ads linked."
+msgstr ""
+
+#: adrotate-switch.php:142
+msgid "Groups are converted where possible and compatible settings migrated."
+msgstr ""
+
+#: adrotate-switch.php:142
+msgid "Each advert is assigned a schedule."
+msgstr ""
+
+#: adrotate-switch.php:161
+msgid "All configured ad codes migrated."
+msgstr ""
+
+#: adrotate-switch.php:161
+msgid "Placement information not compatible."
+msgstr ""
+
+#: adrotate-switch.php:165
+msgid "Plugin defunct"
+msgstr ""
+
+#: adrotate-switch.php:172
+msgid "Import clicks into a stats record"
+msgstr ""
+
+#: adrotate-switch.php:175
+msgid ""
+"This plugin is tested to have errors on modern WordPress 4.2+ which may "
+"affect your import."
+msgstr ""
+
+#: adrotate-switch.php:176
+msgid "Slots not migrated."
+msgstr ""
+
+#: adrotate-switch.php:176
+msgid "AdCode will be generated on the fly."
+msgstr ""
+
+#: adrotate-switch.php:189
+msgid "A group with relevant settings will be generated to accomodate all ads."
+msgstr ""
+
+#: adrotate-switch.php:202
+msgid "AdCode generated on the fly."
+msgstr ""
+
+#: adrotate-switch.php:202
+msgid "Most settings are converted into HTML for use in AdCode."
+msgstr ""
+
+#: adrotate-switch.php:206
+msgid "Help improve AdRotate Switch"
+msgstr ""
+
+#: adrotate-switch.php:209
+msgid "Know of a plugin to add?"
+msgstr ""
+
+#: adrotate-switch.php:210
+msgid ""
+"Know of a plugin that can be added here? Is your current plugin not listed? "
+"Maybe I can add it."
+msgstr ""
+
+#: adrotate-switch.php:211
+msgid "Get in touch"
+msgstr ""
+
+#: adrotate-switch.php:212
+msgid "Something wrong?"
+msgstr ""
+
+#: adrotate-switch.php:213
+msgid "Module outdated or import not working?"
+msgstr ""
+
+#: adrotate-switch.php:213
+msgid "Let me know"
+msgstr ""
+
+#: adrotate-switch.php:213
+msgid "Please use ENGLISH only!"
+msgstr ""
+
+#: adrotate-switch.php:227
+msgid "Did AdRotate Switch help?"
+msgstr ""
+
+#: adrotate-switch.php:228
+msgid "Don't have AdRotate Pro?"
+msgstr ""
+
+#: adrotate-switch.php:229
+msgid "Brought to you by"
+msgstr ""
+
+#: adrotate-switch.php:237
+msgid ""
+"If you found AdRotate Switch useful while you migrated your adverts, please"
+msgstr ""
+
+#: adrotate-switch.php:237
+msgid "rate"
+msgstr ""
+
+#: adrotate-switch.php:237
+msgid "and"
+msgstr ""
+
+#: adrotate-switch.php:237
+msgid "review"
+msgstr ""
+
+#: adrotate-switch.php:237
+msgid "the plugin on WordPress.org. Thank you!"
+msgstr ""
+
+#: adrotate-switch.php:239
+msgid "Use discount code"
+msgstr ""
+
+#: adrotate-switch.php:239
+#, php-format
+msgid "for 10% off on any AdRotate Pro license!"
+msgstr ""
+
+#: adrotate-switch.php:239
+msgid "Buy now"
+msgstr ""
+
+#: adrotate-switch.php:239
+msgid "Thank you for your purchase and support!"
+msgstr ""
+
+#: adrotate-switch.php:241
+msgid "from"
+msgstr ""
+
+#: adrotate-switch.php:246
+msgid "AdRotate<sup>&reg;</sup> is a registered trademark."
+msgstr ""
